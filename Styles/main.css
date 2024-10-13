@@ -1,0 +1,16 @@
+.content {
+    display: grid;
+    justify-content: ;
+}
+.left_box{
+    
+    height: 700px;
+    width: 50%;
+    border: 3px solid black;
+}
+.right_box{
+   
+    height: 700px;
+    width: 50%;
+    border: 3px solid black;
+}
