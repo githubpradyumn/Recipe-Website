@@ -1,0 +1,37 @@
+.navbar{
+    height: 65px;
+    width: 100%;
+    min-width: ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid black;
+}
+.logo{
+    position: relative;
+    left: 57px;
+    font-size: 38px;
+}
+.option{
+    position: relative;
+    right: 100px;
+    font-size: 30px;
+    list-style: none;
+    display: ;
+}
+ul{
+    display: flex;
+    /* flex-wrap:  */
+    /* justify-content: ; */
+    /* align-items: ; */
+}
+li{
+    list-style: none;
+    display: flex;
+}
+
+.01{
+    position: relative;
+    left: 10px;
+    right: 10px;
+}
